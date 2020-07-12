@@ -1,2 +1,2 @@
 # bashscripts
-Repositorio utilizado para armazenar scripts de estudo
+Repositorio utilizado para armazenar scripts de estudo.
